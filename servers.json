@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "IZBERBASH",
+    "color": "FFD700",
+    "status": 0,
+    "recommend": true,
+    "new": true,
+    "edberg_host": "185.207.214.14",
+    "edberg_port": 1333,
+    "host": "185.207.214.14",
+    "port": 1333,
+    "online": 1,
+    "maxonline": 100
+  }
+]
